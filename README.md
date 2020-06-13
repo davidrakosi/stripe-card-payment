@@ -1,3 +1,10 @@
+# Stripe Card Payment App
+![Here is the Image](https://i.imgur.com/PgPgrFv.png)
+
+Just add the following keys in your `.env` file 👇
+1. `REACT_APP_STRIPE_PUBLIC_KEY`
+2. `REACT_APP_STRIPE_SECRET_KEY`
+
 # Accept a Card Payment
 
 Build a simple checkout form to collect card details. Included are some basic build and run scripts you can use to start up the application.
@@ -13,3 +20,5 @@ Build a simple checkout form to collect card details. Included are some basic bu
 ```npm start```
 
 3. Go to [localhost:3000/](localhost:3000/)
+
+Boom. That's it. You're good to go!
