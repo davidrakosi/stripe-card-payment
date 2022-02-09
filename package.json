@@ -11,7 +11,7 @@
     "react-dom": "^16.9.0",
     "react-scripts": "^3.4.0",
     "stripe": "^7.15.0",
-    "yarn": "^1.22.4"
+    "yarn": "^1.22.17"
   },
   "homepage": "http://localhost:3000/checkout",
   "proxy": "http://localhost:4242",
