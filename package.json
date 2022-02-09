@@ -5,7 +5,7 @@
     "@stripe/react-stripe-js": "^1.1.2",
     "@stripe/stripe-js": "^1.7.0",
     "concurrently": "4.1.2",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "express": "^4.17.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
